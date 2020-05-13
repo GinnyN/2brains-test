@@ -23,6 +23,6 @@ firebase deploy
 
 **Se debe estar logueado primero en Firebase y tener permisos para poder realizar el deploy**
 
-Ya se encuentra desplegado en la dirección [https://authtest-f76dd.web.app/]
+Ya se encuentra desplegado en la dirección https://authtest-f76dd.web.app/
 
 Muchas gracias
