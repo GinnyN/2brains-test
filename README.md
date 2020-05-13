@@ -10,7 +10,7 @@ Y luego levantar usando
 ```
 npm start
 ```
-Allí debería abrir en [http://localhost:3000]
+Allí debería abrir en [http://localhost:3000](http://localhost:3000)
 ## Para desplegar
 Se utiliza Firebase-cli. Para poder instalarlo
 ```
@@ -21,7 +21,7 @@ Y para desplegar el comando es
 firebase deploy
 ````
 
-*** Se debe estar logueado primero en Firebase y tener permisos para poder realizar el deploy***
+**Se debe estar logueado primero en Firebase y tener permisos para poder realizar el deploy**
 
 Ya se encuentra desplegado en la dirección [https://authtest-f76dd.web.app/]
 
